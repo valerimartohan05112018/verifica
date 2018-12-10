@@ -16,7 +16,7 @@ Inserire nella risposta il link al repository ed aggiungermi ( gianlucabraccini)
 
 int main()
 {
-	int c = 2;
+	int c = 4;
 	for (int i = 1; i <= 10; i++) {
 		cout << c++;
 	}
