@@ -16,7 +16,11 @@ Inserire nella risposta il link al repository ed aggiungermi ( gianlucabraccini)
 
 int main()
 {
+<<<<<<< HEAD
 	int c = 4;
+=======
+	int c = 3;
+>>>>>>> FIX_BUG
 	for (int i = 1; i <= 10; i++) {
 		cout << c++;
 	}
